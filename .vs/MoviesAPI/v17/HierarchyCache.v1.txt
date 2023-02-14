@@ -1,0 +1,208 @@
+﻿++Solution 'MoviesAPI' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:MoviesAPI.sln
+++MoviesAPI
+i:{00000000-0000-0000-0000-000000000000}:MoviesAPI
+++Connected Services 
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:>371
+++Dependencies
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:>370
+++Properties
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\properties\
+++wwwroot
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\wwwroot\
+++APIBehavior
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\apibehavior\
+++Controllers
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\controllers\
+++ActorController.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\controllers\actorcontroller.cs
+++GenresController.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\controllers\genrescontroller.cs
+++MoviesController.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\controllers\moviescontroller.cs
+++MovieTheatersController.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\controllers\movietheaterscontroller.cs
+++ProfilerController.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\controllers\profilercontroller.cs
+++DTOs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\dtos\
+++ActorCreationDTO.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\dtos\actorcreationdto.cs
+++ActorDTO.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\dtos\actordto.cs
+++ActorsMovieDTO.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\dtos\actorsmoviedto.cs
+++GenresCreationDTO.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\dtos\genrescreationdto.cs
+++GenresDTO.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\dtos\genresdto.cs
+++MovieCreationDTO.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\dtos\moviecreationdto.cs
+++MovieDTO.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\dtos\moviedto.cs
+++MoviePostGetDTO.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\dtos\moviepostgetdto.cs
+++MoviesActorsCreationDTO.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\dtos\moviesactorscreationdto.cs
+++MovieTheaterCreationDTO.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\dtos\movietheatercreationdto.cs
+++MovieTheatersDTO.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\dtos\movietheatersdto.cs
+++PaginationDTO.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\dtos\paginationdto.cs
+++V2ProfilerEntityDTO.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\dtos\v2profilerentitydto.cs
+++Entities
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\entities\
+++Actor.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\entities\actor.cs
+++Genre.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\entities\genre.cs
+++Movie.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\entities\movie.cs
+++MoviesActors.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\entities\moviesactors.cs
+++MoviesGenres.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\entities\moviesgenres.cs
+++MovieTheater.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\entities\movietheater.cs
+++MovieTheaterMovies.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\entities\movietheatermovies.cs
+++v2Profiler.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\entities\v2profiler.cs
+++Filter
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\filter\
+++Helper
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\helper\
+++AutoMapperProfiles.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\helper\automapperprofiles.cs
+++AzureStorageService.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\helper\azurestorageservice.cs
+++HttpContextExtension.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\helper\httpcontextextension.cs
+++IFileAppStorageService.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\helper\ifileappstorageservice.cs
+++IFileStorageService.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\helper\ifilestorageservice.cs
+++IQueryableExtensions.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\helper\iqueryableextensions.cs
+++TypeBinder.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\helper\typebinder.cs
+++Migrations
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\migrations\
+++Validations
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\validations\
+++ApplicationDBContext.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\applicationdbcontext.cs
+++appsettings.json
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\appsettings.json
+++appsettings.Development.json
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\appsettings.development.json
+++Program.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\program.cs
+++No service dependencies discovered
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:>372
+++Analyzers
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:analyzers
+++Frameworks
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:frameworks
+++Packages
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:packages
+++launchSettings.json
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\properties\launchsettings.json
+++actors
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\wwwroot\actors\
+++BadRequestBehavior.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\apibehavior\badrequestbehavior.cs
+++ParseBadRequest.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\filter\parsebadrequest.cs
+++20230123004729_Initial.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\migrations\20230123004729_initial.cs
+++20230126160434_Actors.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\migrations\20230126160434_actors.cs
+++20230129081945_MovieTheaters.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\migrations\20230129081945_movietheaters.cs
+++20230212061313_MovieAndFriends.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\migrations\20230212061313_movieandfriends.cs
+++20230212134642_MovieAndFriends2.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\migrations\20230212134642_movieandfriends2.cs
+++20230214074400_First.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\migrations\20230214074400_first.cs
+++20230214075314_First02.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\migrations\20230214075314_first02.cs
+++ApplicationDBContextModelSnapshot.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\migrations\applicationdbcontextmodelsnapshot.cs
+++FirstLetterUppercaseAttribute.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\validations\firstletteruppercaseattribute.cs
+++Microsoft.AspNetCore.Analyzers
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\program files\dotnet\sdk\6.0.402\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.10\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.10\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\program files\dotnet\sdk\6.0.402\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\program files\dotnet\sdk\6.0.402\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\program files\dotnet\sdk\6.0.402\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\program files\dotnet\sdk\6.0.402\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\program files\dotnet\sdk\6.0.402\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.13\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.10\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\program files\dotnet\sdk\6.0.402\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.10\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\microsoft.netcore.app
+++AutoMapper.Extensions.Microsoft.DependencyInjection (12.0.0)
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:>386
+++Azure.Storage.Blobs (12.14.1)
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:>389
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.13)
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:>390
+++Microsoft.EntityFrameworkCore (6.0.13)
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:>384
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.13)
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:>385
+++Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite (6.0.13)
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:>383
+++Microsoft.EntityFrameworkCore.Tools (6.0.13)
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:>391
+++Newtonsoft.Json (13.0.2)
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:>388
+++Swashbuckle.AspNetCore (6.2.3)
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:>387
+++4a6dd78a-0b13-4331-9421-b28d67388af0
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\wwwroot\actors\4a6dd78a-0b13-4331-9421-b28d67388af0
+++941781d9-f0ed-4d3b-85e5-68c6ff80bd9b
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\wwwroot\actors\941781d9-f0ed-4d3b-85e5-68c6ff80bd9b
+++ba8a8042-aee2-4d79-85c1-b87b8b656d6a
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\wwwroot\actors\ba8a8042-aee2-4d79-85c1-b87b8b656d6a
+++bbc528fe-d102-4d11-a6c5-332d66288187
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\wwwroot\actors\bbc528fe-d102-4d11-a6c5-332d66288187
+++c097ef95-9148-4acf-ab6c-ab277173ef59
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\wwwroot\actors\c097ef95-9148-4acf-ab6c-ab277173ef59
+++d7f324d1-08f3-4354-a1ce-0b0a80bbcd5c .jpg
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\wwwroot\actors\d7f324d1-08f3-4354-a1ce-0b0a80bbcd5c .jpg
+++20230123004729_Initial.Designer.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\migrations\20230123004729_initial.designer.cs
+++20230126160434_Actors.Designer.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\migrations\20230126160434_actors.designer.cs
+++20230129081945_MovieTheaters.Designer.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\migrations\20230129081945_movietheaters.designer.cs
+++20230212061313_MovieAndFriends.Designer.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\migrations\20230212061313_movieandfriends.designer.cs
+++20230212134642_MovieAndFriends2.Designer.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\migrations\20230212134642_movieandfriends2.designer.cs
+++20230214074400_First.Designer.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\migrations\20230214074400_first.designer.cs
+++20230214075314_First02.Designer.cs
+i:{337b42b0-fcf5-4526-9dc8-102124c63f69}:c:\users\ndscd\desktop\asp\movieapi\moviesapi - copy\moviesapi\migrations\20230214075314_first02.designer.cs
